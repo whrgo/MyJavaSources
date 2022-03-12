@@ -1,0 +1,7 @@
+챕터 12.
+Scanner 클래스의 주요 메소드들
+ - int nextint()
+ - byte nextByte()
+ - String nextLine()
+ - double nextDouble()
+ - boolean nextBoolean()
